@@ -1,3 +1,4 @@
+
 "use client";
 
 import Link from 'next/link';
@@ -13,7 +14,7 @@ import {
 import React from 'react';
 
 const navLinks = [
-  { href: "/", label: "Home" },
+  { href: "/welcome", label: "Home" }, // Changed from "/"
   { href: "/listings", label: "Food Listings" },
   { href: "/pickups", label: "Pickup Board" },
   { href: "/deliveries", label: "Delivery Logs" },
