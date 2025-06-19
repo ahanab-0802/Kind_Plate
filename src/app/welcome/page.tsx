@@ -74,7 +74,7 @@ export default function WelcomePage() {
           }`}
         >
           <Image
-            src="https://placehold.co/600x375.png"
+            src="https://images.unsplash.com/photo-1484980972926-edee96e0960d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Rm9vZHxlbnwwfHx8fDE3NTAzNTIyMDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
             alt="Delicious food being shared"
             layout="fill"
             objectFit="cover"
